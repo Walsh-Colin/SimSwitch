@@ -1,0 +1,24 @@
+# Generated on this PC: physical monitor IDs, presets, mode cache and logs.
+/data/
+/logs/
+
+# Local editor and agent configuration.
+/.vscode/
+/.idea/
+/.vs/
+/.codex/
+/.agents/
+
+# Windows metadata, shortcuts and temporary/backup files.
+Thumbs.db
+Desktop.ini
+*.lnk
+*.tmp
+*.bak
+*.user
+*.suo
+
+# Local credentials, if added later.
+.env
+.env.*
+!.env.example
